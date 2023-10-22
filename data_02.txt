@@ -1,0 +1,11 @@
+	method	number	orbital_period	mass	distance	year
+0	Radial Velocity	1	763.0	2.6	19.84	2011
+1	Radial Velocity	1	326.03	19.4	110.62	2007
+2	Radial Velocity	1	516.22	10.5	119.47	2009
+3	Radial Velocity	1	335.1	9.88	39.43	2009
+4	Radial Velocity	3	2391.0	0.54	14.08	2001
+5	Radial Velocity	3	14002.0	1.64	14.08	2009
+6	Radial Velocity	1	4.230785	0.472	15.36	1995
+7	Radial Velocity	5	0.73654		12.53	2011
+8	Radial Velocity	5	261.2	0.172	12.53	2007
+9	Radial Velocity	3	4.215	0.016	8.52	2009
